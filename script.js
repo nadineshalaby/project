@@ -389,7 +389,7 @@ function main() {
     scene.remove(bolt);
     scene.remove(cloneBolt);
     planeGeometry.dispose();
-  }, 44000);
+  }, 47000);
 
 
 
